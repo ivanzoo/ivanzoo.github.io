@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ivan
-subtitle: 'Ivan的个人博客'
+title: 'Ivan的博客'
+subtitle: '时间如生命'
 description: ''
 keywords:
 author: Ivan
@@ -106,10 +106,12 @@ deploy:
   type: git
   repo: https://github.com/ivanzoo/ivanzoo.github.io.git
   branch: master
-# hexo-admin authentification
+
 
 admin:
   username: carlos
   password_hash: $2a$10$/Ed12g62AYPhK8nxIfPk9OmQ47CHUrbX72TDkZR0GnhaksjRd6iSS
   secret: contrasena
-  deployCommand: ./admin_script/hexo-d.sh
+  deployCommand: ./admin_script/hexo-g.sh
+
+
