@@ -114,4 +114,6 @@ admin:
   secret: contrasena
   deployCommand: ./admin_script/hexo-g.sh
 
+aplayer:
+  meting: true
 
