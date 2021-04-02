@@ -110,7 +110,7 @@ deploy:
 backup:
     type: git
     repository:
-       github: https://github.com/ivanzoo/ivanzoo.github.io.git,hexo
+       github: git@github.com:ivanzoo/ivanzoo.github.io.git,hexo
 
 
 admin:
