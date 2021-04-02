@@ -1,8 +1,10 @@
 title: C++学习： 算术运算
 author: Ivan
 tags:
+  - 算术运算
+  - ''
+categories:
   - C++
-categories: []
 date: 2020-10-11 21:20:00
 ---
 ```
