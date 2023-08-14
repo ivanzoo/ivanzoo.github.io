@@ -104,7 +104,7 @@ theme: Butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ivanzoo/ivanzoo.github.io.git
+  repo: git@github.com:ivanzoo/ivanzoo.github.io.git
   branch: master
   after_deploy: ./backup.sh  # 执行备份脚本
 
